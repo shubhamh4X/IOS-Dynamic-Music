@@ -81,7 +81,6 @@ body {
     border-right-width: 0;
 }
 
-/* 电池 */
 .electricity {
     position: absolute;
     z-index: 9999;
